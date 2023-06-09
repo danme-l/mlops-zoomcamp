@@ -4,3 +4,7 @@
 
 **/mlruns/
 **/artifacts/
+
+**/*.yaml
+**/.prefect/
+**/.prefectignore
