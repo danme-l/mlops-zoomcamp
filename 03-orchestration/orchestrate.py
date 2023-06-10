@@ -109,7 +109,7 @@ def train_best_model(
 
         # markdown artifact
         markdown_rmse_report = f"""
-        # Summary
+        # RMSE Report - Summary
         Taxi ride duration prediction
 
         ## RMSE XGBoost Model
